@@ -1,0 +1,23 @@
+{
+  "name": "Omkar Govilkar | AIML Portfolio",
+  "short_name": "AIML Portfolio",
+  "description": "Personal portfolio website of Omkar Govilkar, AIML Engineering Student",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e71b9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "Portfolio Logo.jpeg",
+      "sizes": "192x192",
+      "type": "jpeg"
+    },
+    {
+      "src": "Portfolio Logo.jpeg",
+      "sizes": "512x512",
+      "type": "jpeg"
+    }
+  ]
+}
+
